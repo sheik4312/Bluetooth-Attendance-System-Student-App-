@@ -12,6 +12,4 @@ Every Students and Teachers first have to create an account and then all those f
 
 You can run this app just by downloading this project and run the code in android studio or vs code.
 
-
-
-![SDU page](https://github.com/user-attachments/assets/798c8f88-3d18-4485-bc4b-af7e348dd225)
+<img src="https://github.com/user-attachments/assets/798c8f88-3d18-4485-bc4b-af7e348dd225" width="300" height="600">
